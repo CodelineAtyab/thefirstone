@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.techtribe</groupId>
 	<artifactId>thefirstone</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>thefirstone</name>
 	<description>This is the simplest API</description>
 	<properties>
